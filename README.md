@@ -24,3 +24,7 @@ Once the node is declared as infected, we perform a shutdown and we suppose that
 7) Copy on your computer the folder MALWARE_DELIVERY;
 8) Type the following two commands: ```sed -i -e 's/\r$//' script.sh``` and ```chmod +777 ./script.sh```;
 9) Enjoy!
+
+## Demo Video
+
+[![DEMO](Demo)](https://youtu.be/OfccmiKrc_U) 
