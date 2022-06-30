@@ -22,5 +22,5 @@ Once the node is declared as infected, we perform a shutdown and we suppose that
 5) Transfer on multiple Raspberry Pi devices the content of folder NODE_DELIVERY. You should place folder "fs_creato" right under the Desktop folder of the Raspberry taken into account;
 6) Enter folder "fs_creato" and type the following two commands: ```sed -i -e 's/\r$//' script2.sh``` and ```chmod +777 ./script2.sh```;
 7) Copy on your computer the folder MALWARE_DELIVERY;
-8) Type the following two commands: ```sed -i -e 's/\r$//' script1.sh``` and ```chmod +777 ./script1.sh```;
+8) Type the following two commands: ```sed -i -e 's/\r$//' script.sh``` and ```chmod +777 ./script.sh```;
 9) Enjoy!
